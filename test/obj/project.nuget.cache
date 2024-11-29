@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "7gC/vuXBP5p2/ZFRXNAwsTD0dV33h5lfOo1VinJMIQNnE/gNUUHKTE53dNr4L2tZVce1utsohCCJrh4JZdkpBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duckeN\\Desktop\\IRC\\google_calendar\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duckeN\\.nuget\\packages\\google.apis\\1.64.0\\google.apis.1.64.0.nupkg.sha512",
+    "C:\\Users\\duckeN\\.nuget\\packages\\google.apis.auth\\1.64.0\\google.apis.auth.1.64.0.nupkg.sha512",
+    "C:\\Users\\duckeN\\.nuget\\packages\\google.apis.calendar.v3\\1.64.0.3248\\google.apis.calendar.v3.1.64.0.3248.nupkg.sha512",
+    "C:\\Users\\duckeN\\.nuget\\packages\\google.apis.core\\1.64.0\\google.apis.core.1.64.0.nupkg.sha512",
+    "C:\\Users\\duckeN\\.nuget\\packages\\google.apis.oauth2.v2\\1.64.0.1869\\google.apis.oauth2.v2.1.64.0.1869.nupkg.sha512",
+    "C:\\Users\\duckeN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\duckeN\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\duckeN\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
